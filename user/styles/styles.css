@@ -1,0 +1,194 @@
+.header-peta-lokasi {
+    background-color: #4390DF;
+}
+
+.panel {
+    position: absolute;
+}
+
+.running-text {
+    border-radius: 8px;
+    background-color: white;
+    font-size: 14px;
+    color: blue;
+} 
+
+.content {
+    margin-top: 20px;
+}
+
+.con1 {
+    margin-top: 10px;
+}
+
+.header-peta-lokasi {
+    border-radius: 3px 3px 0 0;
+    background-color: #4390DF;
+    color: white;
+    padding: 5px 15px;
+    font-size: 14px;
+}
+
+.selectbox-peta-faskes {
+    background-color: white;
+    padding: 30px;
+}
+
+.btn-success-mod1 {
+    font-size: 14px;
+    color: white;
+    background-color: #71CB86;
+    padding: 8px 8px;
+}
+
+.btn-success-mod2 {
+    font-size: 14px;
+    color: white;
+    background-color: #73D88B;
+    padding: 8px 8px;
+}
+
+.content-geser {
+    margin-right: 820px;
+}
+
+.warna {
+    background-color: #23B7E5;
+}
+
+.box-peta-lokasi {
+    background-color: white;
+    padding: 15px 10px;
+}
+
+.container .line-peta-lokasi {
+    width:1048px;
+	background:white;
+}
+
+.container .line-info-lokasi {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:1000px;
+	height:90px;
+	background:white;
+    border:solid 1px #DEE5E7;
+}
+
+.line-peta-lokasi {
+    padding: 10px;
+}
+
+.line-info-lokasi {
+    padding: 10px 20px;
+}
+
+.maps-peta-lokasi {
+    background-color: #ACACAC;
+    width:1012px;
+	height:465px;
+    border:solid 1px #DEE5E7;
+    text-align: center;
+    font-size: 80px;
+    vertical-align: middle;
+}
+
+.info-1 {
+    padding-right: 5px;
+    font-weight: 30px;
+    color: crimson;
+}
+
+.info-2 {
+    padding-right: 5px;
+    color: chartreuse;
+}
+
+.deco-info {
+    color: blue;
+    font-weight: 1000;
+}
+ .jelas{
+        margin: 5px;
+      }
+.jelas i{
+        font-size: 21px;
+        margin-right: 5px;
+        color:  #B22222;
+      }
+
+      .kotakcenter{
+        padding: 0px;
+        padding-top: 0px;
+        display: block;
+        margin-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: white;
+        box-shadow: 0 4px 4px 0 rgba(0,0,0,0.2);
+      }
+
+      .centers{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+      }      
+.w100{
+    width: 100%;
+}
+.title-lengkap{
+    background-color:#2874A6;
+     text-align: center;
+     padding: 3px;
+}
+.gambar{
+    margin-top: 0px;
+    width: 100%;
+    height: 200px;
+    background-image: url("../../assets/images/rs-ilus.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.info{
+
+}
+.kotak{
+          border: 2px solid   #D3D3D3;
+          border-radius: 5px;
+          margin: 5px;
+          margin-bottom: 10px;
+          padding: 10px;
+          height: 80px;
+        text-align: center; 
+          box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+      }
+      .kotak > i{
+        font-size: 24px;
+      color: #0053a0;
+
+      }
+      .kotak > p{
+
+     white-space: nowrap;
+     overflow: hidden;
+     text-overflow: ellipsis;
+      }
+
+      .centered{
+         margin: auto; 
+      }
+.kotaks{
+    margin-left: 20px;
+        padding: 0px;
+          box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+.m20{
+    margin-top: 20px;
+}
+
+.putih{
+    color: white;
+}
